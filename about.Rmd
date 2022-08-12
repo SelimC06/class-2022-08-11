@@ -1,10 +1,11 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About Me"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+* [Github](https://github.com/SelimC06)
+* [Kane's Data Science](https://bootcamp.davidkane.info/)
 

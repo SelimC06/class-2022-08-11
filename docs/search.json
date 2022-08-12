@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Me",
+      "author": [],
+      "contents": "\r\nGithub\r\nKane’s Data\r\nScience\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-11T20:00:03-05:00"
+    },
+    {
+      "path": "Counties_analysis.html",
+      "title": "Counties_analysis",
+      "author": [],
+      "date": "2022-08-12",
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-11T20:00:06-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Economic Connectedness",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-11T20:00:07-05:00"
+    }
+  ],
+  "collections": []
+}
